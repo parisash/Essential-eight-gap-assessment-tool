@@ -1,1 +1,9 @@
-
+control_id,evidence_area,evidence_required,evidence_status,evidence_quality,review_notes
+E8-001,Application Control,Application allowlisting policy configuration screenshots and exception register,Partial,Medium,Policy exists but coverage evidence is incomplete
+E8-002,Patch Applications,Patch report showing critical application patches tracked against target timeframe,Missing,Weak,Patch reporting is not yet consolidated
+E8-003,Configure Microsoft Office Macro Settings,Macro restriction policy and validation evidence across business units,Partial,Medium,Policy coverage needs validation
+E8-004,User Application Hardening,Browser hardening baseline screenshots and configuration review record,Partial,Medium,Baseline exists but review evidence is incomplete
+E8-005,Restrict Administrative Privileges,Privileged access review export local admin review and removal evidence,Partial,Medium,Review started but endpoint coverage is incomplete
+E8-006,Patch Operating Systems,Operating system patch compliance report overdue exception register and approval record,Partial,Medium,Patch tracking exists but exception records need improvement
+E8-007,Multi-Factor Authentication,MFA coverage report privileged access enforcement evidence and remote access validation,Missing,Weak,MFA enabled for core systems but coverage gaps need evidence
+E8-008,Regular Backups,Backup schedule restoration test record and recovery validation evidence,Partial,Medium,Backup schedule exists but restoration evidence is incomplete

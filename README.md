@@ -281,5 +281,4 @@ This project uses simulated Essential Eight assessment data for portfolio and le
 
 **Parisa Shojaei**
 
-Cybersecurity GRC · Cloud Security · Privacy Governance · Risk Analytics · AI Assurance
-Python · SQL · AWS · Jira
+Cybersecurity GRC · Cloud Security · Privacy Governance · Risk Analytics · AI Assurance | Turning risks into audit-ready evidence
